@@ -8,4 +8,4 @@
 6. TODO: Have this be connected to a temperature sensor, so that this can plot a temperature function in real time for extended periods.
 
 ## Additional Notes
-This is still a work in progress. A video that shows an early stage of my initial testing can be found [here] (https://youtu.be/Jd8q3qR4iCs).
+This is still a work in progress. A video that shows an early stage of my initial testing can be found [here](https://youtu.be/Jd8q3qR4iCs).
